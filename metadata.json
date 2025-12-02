@@ -1,0 +1,5 @@
+{
+  "name": "ARGEM Sketcher",
+  "description": "A specialized tool for the Research Development Education and Application Center (ARGEM) to generate Van Gogh style charcoal sketches of specific objects using Google Gemini.",
+  "requestFramePermissions": []
+}
